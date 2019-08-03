@@ -8,4 +8,3 @@ gem "awesome_print", git: "awesome-print/awesome_print"
 group :development do
 gem "pry"
 end
-end
